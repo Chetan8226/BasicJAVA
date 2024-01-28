@@ -7,7 +7,6 @@ public class Generalization_Child_1 implements Generalization_Interface
 	public void home() 
 	{
 		System.out.println("Child1 Have a Home1");
-		
 	}
 
 	@Override

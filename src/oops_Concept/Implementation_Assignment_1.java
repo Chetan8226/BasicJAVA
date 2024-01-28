@@ -1,6 +1,6 @@
 package oops_Concept;
 
-public class Interface_Implementation_Assignment_1 
+public class Implementation_Assignment_1 
 {
 
 	public static void main(String[] args) 
