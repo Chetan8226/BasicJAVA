@@ -1,6 +1,6 @@
 package oops_Concept;
 
-public class Class_2_Assignment_3 implements Interface_Assignment_3
+public class Interface_Child_2_Assignment_3 implements Interface_Assignment_3
 {
 	public void home2()
 	{

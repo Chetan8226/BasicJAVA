@@ -1,11 +1,11 @@
 package oops_Concept;
 
-public class Implementation_Assignment_4 extends Child_Assignment_4
+public class Implementation_Assignment_4 extends Interface_Child_Assignment_4
 {
 
 	public static void main(String[] args) 
 	{
-		Child_Assignment_4 obj=new Child_Assignment_4();
+		Interface_Child_Assignment_4 obj=new Interface_Child_Assignment_4();
 		obj.home();
 		obj.home1();
 		obj.car();

@@ -6,7 +6,7 @@ public class Switch_ase_Assignment
 	public static void main(String[] args) 
 	{
 		int a=10,b=20;
-		char operation='*';
+		char operation='+';
 				switch(operation)
 				{
 				case'+':

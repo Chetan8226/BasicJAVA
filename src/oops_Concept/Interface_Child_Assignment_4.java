@@ -1,6 +1,6 @@
 package oops_Concept;
 
-public class Child_Assignment_4 implements Interface_1_Assignment_4
+public class Interface_Child_Assignment_4 implements Interface_1_Assignment_4
 {
 
 	@Override

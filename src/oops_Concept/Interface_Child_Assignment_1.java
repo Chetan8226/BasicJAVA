@@ -1,6 +1,6 @@
 package oops_Concept;
 
-public class Child_Assignment_1 implements Interface_Assignment_1
+public class Interface_Child_Assignment_1 implements Interface_Assignment_1
 {
 	public void bycycle()
 	{
