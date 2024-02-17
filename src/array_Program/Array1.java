@@ -20,7 +20,6 @@ public class Array1
 		marks1[3]=22;
 		marks1[4]=23;
 		System.out.println("Seconr Element = " + marks1[1]);
-	
 	}
 
   }

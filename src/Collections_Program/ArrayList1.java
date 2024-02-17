@@ -26,7 +26,7 @@ public class ArrayList1
 		System.out.println("After Adding String Element = " +al1);
 		al1.remove(2);
 		System.out.println("After Removing Element By Index = " + al1);
-		System.out.println(al1.contains("Harry"));
+		System.out.println("Al1 contain Harry? = " + al1.contains("Harry"));
 		al1.add(null);
 		System.out.println("After Adding null element = " + al1);
 		al1.add(70);

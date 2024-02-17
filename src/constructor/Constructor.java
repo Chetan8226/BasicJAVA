@@ -17,7 +17,6 @@ public class Constructor
 		System.out.println("Value of B "+ b);
 		
 	}
-
 	public static void main(String[] args) 
 	{
 		Constructor obj=new Constructor();
