@@ -6,5 +6,4 @@ public class Single_Level_Child1 extends Single_Level_Parent1
 	{
 		System.out.println("Child Have a Bike");
 	}
-
   }

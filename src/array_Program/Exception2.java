@@ -22,7 +22,5 @@ public class Exception2
 		{
 			System.out.println("Can not perform the operation" + e);
 		}
-		
 	}
-
   }

@@ -2,7 +2,6 @@ package simple_Java_Program;
 
 public class Switch_Case_Statement 
   {
-
 	public static void main(String[] args) 
 	{
 		String day="Thuresday";
@@ -25,10 +24,8 @@ public class Switch_Case_Statement
 		case"Saturday":
 			System.out.println("Today is Saturday");
 			break;
-			default:
+		default:
 			System.out.println("Its Weekend");
 		}
-		
 	}
-
   }

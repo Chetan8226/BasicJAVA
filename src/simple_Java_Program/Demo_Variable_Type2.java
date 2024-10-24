@@ -11,7 +11,7 @@ public class Demo_Variable_Type2
 	public static void main(String[] args) 
 	{
 		System.out.println("Value of A ="+ a);
-		chow();//method calling
+		chow();  //method calling
 	}
 
   }

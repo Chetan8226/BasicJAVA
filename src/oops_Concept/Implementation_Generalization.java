@@ -21,5 +21,4 @@ public class Implementation_Generalization
 		obj.car();
 		obj.land();		
 	}
-
 }

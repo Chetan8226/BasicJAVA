@@ -31,8 +31,6 @@ public class String_Class
 		System.out.println(sc.startsWith("India i"));//16
 		System.out.println(sc.endsWith("Country"));//17
 		System.out.println(str2.charAt(2));//18
-		System.out.println(sc.replace("My","Was"));//19
-		
+		System.out.println(sc.replace("My","Was"));//19	
 	}
-
   }

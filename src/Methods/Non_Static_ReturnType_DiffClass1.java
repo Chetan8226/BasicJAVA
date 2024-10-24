@@ -6,5 +6,4 @@ public class Non_Static_ReturnType_DiffClass1
 	{
 		return (10+20);		
 	}
-
   }

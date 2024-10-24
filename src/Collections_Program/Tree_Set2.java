@@ -1,8 +1,6 @@
 package Collections_Program;
-
 import java.net.MulticastSocket;
 import java.util.TreeSet;
-
 public class Tree_Set2 
 {
 
@@ -25,5 +23,4 @@ public class Tree_Set2
 		/*ts2.add("Ron")
 		System.out.println(ts2);*/
 	}
-
 }

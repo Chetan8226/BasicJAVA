@@ -1,10 +1,7 @@
 package Collections_Program;
-
 import java.util.TreeSet;
-
 public class TreeSet1 
 {
-
 	public static void main(String[] args) 
 	{
 		TreeSet ts1=new TreeSet();
@@ -18,9 +15,5 @@ public class TreeSet1
 		System.out.println(ts2);
 		ts2.add(null);// run time error = null.pointer.exception
 		System.out.println(ts2);
-		
-	
-		
 	}
-
 }

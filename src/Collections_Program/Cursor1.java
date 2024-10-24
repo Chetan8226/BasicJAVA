@@ -1,10 +1,8 @@
 package Collections_Program;
-
 import java.util.Enumeration;
 import java.util.Iterator;
 import java.util.ListIterator;
 import java.util.Vector;
-
 public class Cursor1 
 {
 
@@ -18,12 +16,13 @@ public class Cursor1
 		}
 		System.out.println(v1);
 		// Enumeration Cursor
-		/*System.out.println("Enumeration Cursor");
+		System.out.println("Enumeration Cursor");
 		Enumeration e=v1.elements();
 		while(e.hasMoreElements())
 		{
 			System.out.println(e.nextElement());
 		}
+		
 		// Iterator Cursor
 		System.out.println("Iterator Cursor");
 		Iterator itr=v1.iterator();
@@ -39,7 +38,8 @@ public class Cursor1
 				itr.remove();
 			}
 		}
-		System.out.println(v1);*/
+		System.out.println(v1);
+		
 		// List Iterator Cursor
 		System.out.println("List Iterator Cursor");
 		ListIterator ltr=v1.listIterator();
@@ -57,10 +57,8 @@ public class Cursor1
 			else if (num1==3)
 			{
 				ltr.add(33);
-			}
-			
+			}		
 		}
 		System.out.println(v1);
 	}
-
 }

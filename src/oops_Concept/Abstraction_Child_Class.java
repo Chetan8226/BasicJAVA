@@ -11,7 +11,6 @@ public class Abstraction_Child_Class extends Abstraction
 	public void display() 
 	{
 		System.out.println("This is Abstract Method of Class");
-	
 	}
 
 }

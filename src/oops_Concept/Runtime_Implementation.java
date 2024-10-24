@@ -11,7 +11,5 @@ public class Runtime_Implementation
 		obj1.employee();
 		Runtime_Parent obj2 = new Runtime_Child();// casting
 		obj2.employee();
-
 	}
-
   }

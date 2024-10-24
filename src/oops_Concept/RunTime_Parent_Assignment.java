@@ -11,5 +11,4 @@ public class RunTime_Parent_Assignment
 	{
 		System.out.println("Rate= 7.9");
 	}
-
   }

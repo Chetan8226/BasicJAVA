@@ -21,6 +21,6 @@ public class Demo_Variable
 	/*public void show()
 	{
 		int b;//local variable
-	}//user create*/
+	} //user create*/
 
    }

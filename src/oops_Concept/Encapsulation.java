@@ -10,11 +10,10 @@ public class Encapsulation
     public double get()
     {
 		return sal;
-    	
     }
     public void display()
     {
-    	System.out.println("Salary=" + sal);
+    	System.out.println("Salary = " + sal);
     }
 	public static void main(String[] args) 
 	{
@@ -23,8 +22,5 @@ public class Encapsulation
 		obj.set(55000.02);
 		System.out.println(obj.get());
 		obj.display();
-		
-
 	}
-
   }

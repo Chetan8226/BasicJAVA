@@ -25,5 +25,4 @@ public class Exception3
 			System.out.println("Generalize Handeling");
 		}
 	}
-
   }

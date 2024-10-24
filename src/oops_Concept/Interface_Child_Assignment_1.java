@@ -17,14 +17,11 @@ public class Interface_Child_Assignment_1 implements Interface_Assignment_1
 	public void Car() 
 	{
 		System.out.println("Parent Have a Car");
-		
 	}
 
 	@Override
 	public void land() 
 	{
-		System.out.println("Parent have a land");
-		
+		System.out.println("Parent have a land");	
 	}
-
 }

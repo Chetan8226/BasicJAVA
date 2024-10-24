@@ -2,8 +2,8 @@ package Methods;
 
 public class Memory_ManagemrntUsingStaticVariable 
   {
-	static int a=0;
-	int b=0;
+	 static int a=0;
+	 int b=0;
 	public void add()
 	{
 		a++;
@@ -22,8 +22,6 @@ public class Memory_ManagemrntUsingStaticVariable
 		Memory_ManagemrntUsingStaticVariable obj2=new Memory_ManagemrntUsingStaticVariable();
 		obj2.add();		
 		Memory_ManagemrntUsingStaticVariable obj4=new Memory_ManagemrntUsingStaticVariable();
-		obj4.add();
-		
+		obj4.add();	
 	}
-
   }

@@ -1,8 +1,6 @@
 package Collections_Program;
-
 import java.security.AllPermission;
 import java.util.ArrayList;
-
 public class ArrayList1 
   {
 
@@ -31,8 +29,5 @@ public class ArrayList1
 		System.out.println("After Adding null element = " + al1);
 		al1.add(70);
 		System.out.println("After Adding Duplicate Value = " + al1);
-		
-		
 	}
-
   }

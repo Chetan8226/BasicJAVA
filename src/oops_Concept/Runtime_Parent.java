@@ -6,5 +6,4 @@ public class Runtime_Parent
 	{
 		System.out.println("Emp of Compony");
 	}
-
   }

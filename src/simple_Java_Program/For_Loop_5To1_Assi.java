@@ -9,8 +9,5 @@ public class For_Loop_5To1_Assi
 		{
 			System.out.println(i);
 		}
-			
-
 	}
-
   }

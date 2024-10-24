@@ -5,13 +5,11 @@ public class Polymorphism
 	public void add() 
 	{
 		System.out.println("Addition of Two Numbers= " + (10 + 20));
-
 	}
 
 	public void add(int a) 
 	{
 		System.out.println("Addition of A & A=" + (a + a));
-
 	}
 
 	public void add(int a, int b) 

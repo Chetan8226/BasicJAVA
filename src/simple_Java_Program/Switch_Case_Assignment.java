@@ -1,8 +1,7 @@
 package simple_Java_Program;
 
-public class Switch_ase_Assignment 
+public class Switch_Case_Assignment 
   {
-
 	public static void main(String[] args) 
 	{
 		int a=10,b=20;
@@ -19,10 +18,7 @@ public class Switch_ase_Assignment
 					System.out.println("Multiply="+(b*a));
 					break;
 				default:
-					System.out.println("Wrong operation");
-				
+					System.out.println("Wrong operation");			
 				}
-	
 	}
-
   }

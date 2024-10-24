@@ -1,10 +1,7 @@
 package Collections_Program;
-
 import java.util.HashSet;
-
 public class Hash_Set1 
   {
-
 	public static void main(String[] args) 
 	{
 		HashSet hs1=new HashSet();//capacity = 16 LF=0.75
@@ -25,8 +22,5 @@ public class Hash_Set1
 		System.out.println(hs1);
 		hs1.add("a");
 		System.out.println(hs1);
-		
-	
 	}
-
   }

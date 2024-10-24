@@ -12,5 +12,4 @@ public class Polymorphism_Implementation
 		obj.add(10);
 		obj.add(10, 20, 30);
 	}
-
   }

@@ -11,5 +11,4 @@ public class Runtime_Child_Assignment extends RunTime_Parent_Assignment
 	{
 		System.out.println("Rate=7.5");
 	}
-
   }

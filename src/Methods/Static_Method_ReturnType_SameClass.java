@@ -14,5 +14,4 @@ public class Static_Method_ReturnType_SameClass
 		int out = show();
 		System.out.println("Multiplication of A & B=" + out);		
 	}
-
   }

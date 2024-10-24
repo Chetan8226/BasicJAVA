@@ -1,6 +1,6 @@
 package oops_Concept;
 
-public class Class_Parent 
+public class Hierarchical_Class_Parent 
   {
 	public void home() 
 	{

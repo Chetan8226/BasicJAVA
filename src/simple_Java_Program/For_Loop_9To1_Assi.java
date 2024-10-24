@@ -9,7 +9,5 @@ public class For_Loop_9To1_Assi
 		{
 			System.out.println(i);
 		}
-
 	}
-
   }

@@ -1,7 +1,5 @@
 package Collections_Program;
-
 import java.util.Vector;
-
 public class Vector1 
 {
 
@@ -16,12 +14,12 @@ public class Vector1
 			v1.add(i);
 		}
 		System.out.println(v1);
-		System.out.println(v1.capacity());
+		System.out.println("After Adding Capacity = " + v1.capacity());
 		v1.add(12);
-		System.out.println(v1);
-		System.out.println(v1.capacity());
+		System.out.println("After Adding 12 = " + v1);
+		System.out.println("After Adding Capacity = " + v1.capacity());
 		v1.addElement(13);
-		System.out.println(v1);
+		System.out.println("After Adding Element 13 = " + v1);
 		System.out.println(v1.capacity());
 		for(int i=0;i<10;i++)
 		{
@@ -34,8 +32,5 @@ public class Vector1
 		System.out.println(v1.firstElement());
 		v1.setElementAt(999,1);
 		System.out.println(v1);
-		
-	
 	}
-
 }

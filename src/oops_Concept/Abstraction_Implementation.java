@@ -11,5 +11,4 @@ public class Abstraction_Implementation
 		obj.chow();//abstract class method
 		obj.display();//abstract class method
 	}
-
   }

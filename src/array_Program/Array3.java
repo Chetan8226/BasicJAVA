@@ -1,10 +1,7 @@
 package array_Program;
-
 import java.util.Arrays;
-
 public class Array3 
 {
-
 	public static void main(String[] args) 
 	{
 		String name[]=new String[5];
@@ -28,10 +25,6 @@ public class Array3
 		for(int i=name.length-1;i>=0;i--)
 		{
 			System.out.println(name[i]);
-			
 		}
-
-	
 	}
-
 }

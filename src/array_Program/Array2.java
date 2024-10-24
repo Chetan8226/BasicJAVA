@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Array2 
   {
-
 	public static void main(String[] args) 
 	{
 		int size;
@@ -23,8 +22,5 @@ public class Array2
 		{
 			System.out.println(a[i]);
 		}//printing my array
-		
-	
 	}
-
   }

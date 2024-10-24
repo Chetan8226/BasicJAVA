@@ -20,9 +20,8 @@ public class Exception1
 		finally
 		{
 			System.out.println("Statement 5 ");
-			System.out.println("Statement 2 = " +(10/0));
+			System.out.println("Statement 2 = " + (10/0));
 		}
 		System.out.println("Statement 6 ");
 	}
-
   }

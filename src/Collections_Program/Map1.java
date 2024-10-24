@@ -1,5 +1,4 @@
 package Collections_Program;
-
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Set;
@@ -36,5 +35,4 @@ public class Map1
 			System.out.println(itr.next());
 		}
 	}
-
 }

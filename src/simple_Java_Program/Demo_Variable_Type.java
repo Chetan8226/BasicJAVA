@@ -7,7 +7,7 @@ public class Demo_Variable_Type
 
 	public static void main(String[] args) 
 	{
-		int c=30;//local variable
+		int c=30;//local variable  * Local Variable also called as temporary variable.
 		System.out.println("Value of C =" + c);
 		System.out.println("Value of A =" + a);
 		System.out.println("Value of B =" + b);

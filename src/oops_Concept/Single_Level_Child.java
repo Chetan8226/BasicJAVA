@@ -13,7 +13,5 @@ public class Single_Level_Child extends Single_Level_Parent
 		obj.bike();
 		obj.car();
 		obj.home();
-
 	}
-
   }

@@ -3,7 +3,7 @@ package simple_Java_Program;
 public class Demo_Variable_Type3 
   {
 	static int a=10;//11//12
-	int b=20;//20//20
+	 int b=20;//20//20
 	public void chow()
 	{
 		a++;//10->11->12->13
@@ -12,7 +12,7 @@ public class Demo_Variable_Type3
 	}
 	public static void main(String[] args) 
 	{
-		Demo_Variable_Type3 che=new Demo_Variable_Type3();//object creation
+		Demo_Variable_Type3 che=new Demo_Variable_Type3();  //object creation
 		//class_name object=new class_name();
 		che.chow();
 		Demo_Variable_Type3 che1=new Demo_Variable_Type3();

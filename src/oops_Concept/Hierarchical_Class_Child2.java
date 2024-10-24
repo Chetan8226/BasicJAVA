@@ -1,6 +1,6 @@
 package oops_Concept;
 
-public class Class_Child2 extends Class_Parent 
+public class Hierarchical_Class_Child2 extends Hierarchical_Class_Parent 
   {
 	public void laptop() 
 	{

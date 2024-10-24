@@ -7,5 +7,4 @@ public class Runtime_Child extends Runtime_Parent
 	{
 		System.out.println("QA of Compony");
 	}
-
   }

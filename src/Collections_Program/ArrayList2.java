@@ -1,16 +1,13 @@
 package Collections_Program;
-
 import java.util.ArrayList;
-
 public class ArrayList2 
 {
-
 	public static void main(String[] args) 
 	{
 		ArrayList al1=new ArrayList();
 		ArrayList al2=new ArrayList(1000);
 		ArrayList al3=new ArrayList(al1);
-		System.out.println("Size of al1 before adding element = " + al1);
+		System.out.println("Size of al1 before adding element = " + al1.size());
 		al1.add("Ron");
 		al1.add("Wisely");
 		al1.add("datta");
@@ -29,5 +26,4 @@ public class ArrayList2
 		System.out.println("Content of al1 after removing index 6 = " +al1);
 		System.out.println("******************************");
 	}
-
 }

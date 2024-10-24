@@ -15,5 +15,4 @@ public class Runtime_Implementation_Assignment
 		obj2.bankname();
 		obj2.rate();
 	}
-
   }

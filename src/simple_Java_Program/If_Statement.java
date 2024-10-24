@@ -2,7 +2,6 @@ package simple_Java_Program;
 
 public class If_Statement 
   {
-
 	public static void main(String[] args) 
 	{
 		int marks=60;
@@ -10,7 +9,5 @@ public class If_Statement
 		{
 			System.out.println("Student is Pass in JAVA");
 		}
-		
 	}
-
   }

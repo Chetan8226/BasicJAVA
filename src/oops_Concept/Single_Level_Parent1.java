@@ -11,5 +11,4 @@ public class Single_Level_Parent1
 	{
 		System.out.println("Parent Have Car");
 	}
-
   }

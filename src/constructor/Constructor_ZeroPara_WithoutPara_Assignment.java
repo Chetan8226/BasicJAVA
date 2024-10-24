@@ -25,8 +25,6 @@ public class Constructor_ZeroPara_WithoutPara_Assignment
 	{
 		Constructor_ZeroPara_WithoutPara_Assignment obj=new Constructor_ZeroPara_WithoutPara_Assignment();
 		obj.display();
-		Constructor_ZeroPara_WithoutPara_Assignment obj1=new Constructor_ZeroPara_WithoutPara_Assignment(2000);
-		
+		Constructor_ZeroPara_WithoutPara_Assignment obj1=new Constructor_ZeroPara_WithoutPara_Assignment(300);
 	}
-
   }

@@ -2,7 +2,6 @@ package array_Program;
 
 public class Array5_Split 
 {
-
 	public static void main(String[] args) 
 	{
 		String sc="I Am Chetan";
@@ -22,7 +21,5 @@ public class Array5_Split
 		{
 			System.out.println(splitdate[i]);
 		}
-
 	}
-
 }

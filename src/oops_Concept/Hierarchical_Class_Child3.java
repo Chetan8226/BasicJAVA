@@ -1,6 +1,6 @@
 package oops_Concept;
 
-public class Class_Child3 extends Class_Parent 
+public class Hierarchical_Class_Child3 extends Hierarchical_Class_Parent 
   {
 	public void videoGame() 
 	{

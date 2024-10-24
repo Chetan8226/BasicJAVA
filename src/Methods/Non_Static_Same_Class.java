@@ -16,7 +16,5 @@ public class Non_Static_Same_Class
 		           //object_name(anything you want)
 		Non_Static_Same_Class obj=new Non_Static_Same_Class();
 		obj.show();
-	
 	}
-
   }

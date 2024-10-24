@@ -8,5 +8,4 @@ public class Non_Static_WithPara_DiffClass1
 		System.out.println("Employe ID=" + id);
 		System.out.println("Employe Designation=" + Designation);		
 	}
-
   }

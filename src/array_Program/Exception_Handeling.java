@@ -1,8 +1,6 @@
 package array_Program;
-
 public class Exception_Handeling 
 {
-
 	public static void main(String[] args) 
 	{
 		System.out.println("Main Method Started");
@@ -18,7 +16,5 @@ public class Exception_Handeling
 			
 		}
 		System.out.println("Main Method Ended");
-
 	}
-
 }

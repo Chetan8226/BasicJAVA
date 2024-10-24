@@ -6,7 +6,7 @@ public class Else_If_Statement
 	public static void main(String[] args) 
 	{
 		int marks=65;
-		if(marks>=35 && marks<=60)//condition1 && condition2 (&&=operator) (AND=both con true , OR=at least one con true)
+		if(marks>=35 && marks<=60)//condition1 && condition2 (&&=operator) (AND=both condition true , OR=at least one condition true)
 		{
 			System.out.println("Student is Pass in Second Class");// 30>=35&& 30>60
 		}

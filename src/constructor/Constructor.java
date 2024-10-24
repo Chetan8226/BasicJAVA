@@ -13,14 +13,12 @@ public class Constructor
 	}//zero parameter constructor
 	public void display()
 	{
-		System.out.println("Value of a "+ a);
-		System.out.println("Value of B "+ b);
-		
+		System.out.println("Value of A =  "+ a);
+		System.out.println("Value of B =  "+ b);
 	}
 	public static void main(String[] args) 
 	{
 		Constructor obj=new Constructor();
 		obj.display();
 	}
-
   }

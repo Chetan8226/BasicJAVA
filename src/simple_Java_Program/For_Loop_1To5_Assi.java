@@ -8,8 +8,6 @@ public class For_Loop_1To5_Assi
 		for(int i=1;i<=5;i++)
 		{
 			System.out.println(i);
-		
 		}
 	}
-
 }

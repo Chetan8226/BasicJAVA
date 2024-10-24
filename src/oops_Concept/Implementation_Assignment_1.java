@@ -10,7 +10,5 @@ public class Implementation_Assignment_1
 		obj.Home();
 		obj.Car();
 		obj.land();
-	
 	}
-
 }

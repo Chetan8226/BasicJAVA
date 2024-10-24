@@ -10,5 +10,4 @@ public class Non_Static_DiffClass1
 	{
 		System.out.println("Multiplication=" + (10*20));
 	}
-
   }

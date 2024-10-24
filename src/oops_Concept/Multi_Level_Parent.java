@@ -11,5 +11,4 @@ public class Multi_Level_Parent extends Multi_Level_Grand_Parent
 	{
 		System.out.println("Parent Have Money");
 	}
-
   }

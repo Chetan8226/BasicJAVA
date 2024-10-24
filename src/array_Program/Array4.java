@@ -18,7 +18,5 @@ public class Array4
 			}
 			System.out.println();
 		}
-	
 	}
-
   }
