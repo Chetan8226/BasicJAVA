@@ -1,7 +1,8 @@
 package oops_Concept;
 
-public interface Interface 
-  {
+public interface Interface {
 	public abstract void getEmpDetails();
-	void chowEmpDetails();//public & abstract is not necessary to write, without public & abstract it can work
-  }
+
+	void chowEmpDetails();// public & abstract is not necessary to write, without public & abstract it can
+							// work
+}

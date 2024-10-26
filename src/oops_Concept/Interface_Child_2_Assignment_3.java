@@ -1,9 +1,7 @@
 package oops_Concept;
 
-public class Interface_Child_2_Assignment_3 implements Interface_Assignment_3
-{
-	public void home2()
-	{
+public class Interface_Child_2_Assignment_3 implements Interface_Assignment_3 {
+	public void home2() {
 		System.out.println("Child2 Have a Home2");
 	}
 

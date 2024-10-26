@@ -1,10 +1,8 @@
 package oops_Concept;
 
-public class Runtime_Implementation_Assignment 
-  {
+public class Runtime_Implementation_Assignment {
 
-	public static void main(String[] args) 
-	{
+	public static void main(String[] args) {
 		Runtime_Child_Assignment obj = new Runtime_Child_Assignment();
 		obj.bankname();
 		obj.rate();
@@ -15,4 +13,4 @@ public class Runtime_Implementation_Assignment
 		obj2.bankname();
 		obj2.rate();
 	}
-  }
+}

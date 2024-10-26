@@ -1,27 +1,22 @@
 package oops_Concept;
 
-public class Interface_Child_1_Assignment_3 implements Interface_Assignment_3
-{
-	public void home1()
-	{
+public class Interface_Child_1_Assignment_3 implements Interface_Assignment_3 {
+	public void home1() {
 		System.out.println("Child1 Have a Home1");
 	}
 
 	@Override
-	public void home() 
-	{
+	public void home() {
 		System.out.println("Parent Have a Home");
 	}
 
 	@Override
-	public void car() 
-	{
+	public void car() {
 		System.out.println("Parent Have a Car");
 	}
 
 	@Override
-	public void land() 
-	{
+	public void land() {
 		System.out.println("Parent Have a Land");
 	}
 

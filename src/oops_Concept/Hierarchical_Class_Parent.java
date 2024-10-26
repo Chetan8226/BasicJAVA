@@ -1,15 +1,12 @@
 package oops_Concept;
 
-public class Hierarchical_Class_Parent 
-  {
-	public void home() 
-	{
+public class Hierarchical_Class_Parent {
+	public void home() {
 		System.out.println("Parent Have Home");
 	}
 
-	public void car() 
-	{
+	public void car() {
 		System.out.println("Parent Have Car");
 	}
 
-  }
+}

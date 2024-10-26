@@ -1,10 +1,8 @@
 package oops_Concept;
 
-public class Hierarchical_Class_Implementation 
-  {
+public class Hierarchical_Class_Implementation {
 
-	public static void main(String[] args) 
-	{
+	public static void main(String[] args) {
 		Hierarchical_Class_Child1 obj1 = new Hierarchical_Class_Child1();
 		obj1.bike();// own
 		obj1.car();// parent
@@ -18,4 +16,4 @@ public class Hierarchical_Class_Implementation
 		obj3.car();// parent
 		obj3.home();// parent
 	}
-  }
+}
